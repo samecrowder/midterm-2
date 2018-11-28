@@ -1,0 +1,18 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #a4c2f2;
+}
+
+a {
+  color: #00B7FF;
+}
+
+
+#top-bar {
+  background-color: blue;
+  width: 100%;
+  color: white;
+  font-family: Apple Chancery, cursive;
+  font-size: 500%;
+}
